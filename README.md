@@ -1,0 +1,2 @@
+# ScalaPOC
+Scala sample project
